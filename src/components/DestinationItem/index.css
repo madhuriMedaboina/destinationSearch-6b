@@ -1,0 +1,18 @@
+/* Write your CSS here */
+
+.image-card {
+  list-style-type: none;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.name {
+  font-family: 'Open Sans';
+  color: #000000;
+  font-size: 16px;
+  font-weight: 600;
+}
+.img {
+  height: 400px;
+  width: 100%;
+}
